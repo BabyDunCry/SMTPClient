@@ -1,0 +1,15 @@
+D:\GitFolder\SMTPClient\SMTPClient\bin\Debug\net6.0\SMTPClient.exe
+D:\GitFolder\SMTPClient\SMTPClient\bin\Debug\net6.0\SMTPClient.deps.json
+D:\GitFolder\SMTPClient\SMTPClient\bin\Debug\net6.0\SMTPClient.runtimeconfig.json
+D:\GitFolder\SMTPClient\SMTPClient\bin\Debug\net6.0\SMTPClient.dll
+D:\GitFolder\SMTPClient\SMTPClient\bin\Debug\net6.0\SMTPClient.pdb
+D:\GitFolder\SMTPClient\SMTPClient\obj\Debug\net6.0\SMTPClient.csproj.AssemblyReference.cache
+D:\GitFolder\SMTPClient\SMTPClient\obj\Debug\net6.0\SMTPClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitFolder\SMTPClient\SMTPClient\obj\Debug\net6.0\SMTPClient.AssemblyInfoInputs.cache
+D:\GitFolder\SMTPClient\SMTPClient\obj\Debug\net6.0\SMTPClient.AssemblyInfo.cs
+D:\GitFolder\SMTPClient\SMTPClient\obj\Debug\net6.0\SMTPClient.csproj.CoreCompileInputs.cache
+D:\GitFolder\SMTPClient\SMTPClient\obj\Debug\net6.0\SMTPClient.dll
+D:\GitFolder\SMTPClient\SMTPClient\obj\Debug\net6.0\refint\SMTPClient.dll
+D:\GitFolder\SMTPClient\SMTPClient\obj\Debug\net6.0\SMTPClient.pdb
+D:\GitFolder\SMTPClient\SMTPClient\obj\Debug\net6.0\SMTPClient.genruntimeconfig.cache
+D:\GitFolder\SMTPClient\SMTPClient\obj\Debug\net6.0\ref\SMTPClient.dll
